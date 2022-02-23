@@ -1,6 +1,12 @@
 ### WebySpace
+
+
 La plateforme répond aux besoins des internautes qui  souhaitent assister à des webinaires virtuels, en bénéficiant des services suivants : 
 Pour un utilisateur ordinaire:   
+
+
+
+
 •	S’authentifier/ s’inscrire ou même changer le mot de passe. 
 •	Confirmation de son adresse email après authentification.  
 •	Recherche par catégorie. 
@@ -10,6 +16,7 @@ Pour un utilisateur ordinaire:
 •	S’enregistrer aux événements avenir. 
 
 Pour un utilisateur admin :
+
 Il beneficie du contrôle des différents transactions des visiteurs faites sur la plateforme : 
 •	Dashboard de visualisation (statistiques sur la plateformes: le nombre des webinaires triés par catégorie). 
 •	Accepter ou refuser un événement.
