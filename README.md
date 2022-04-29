@@ -1,5 +1,8 @@
 ### WebySpace
 
+By : 
+###Asmaa Amara
+###Mouad Ouakil
 
 La plateforme répond aux besoins des internautes qui  souhaitent assister à des webinaires virtuels, en bénéficiant des services suivants : 
 Pour un utilisateur ordinaire:   
