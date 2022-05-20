@@ -1,27 +1,29 @@
 ### WebySpace
 
 By : 
-###Asmaa Amara
-###Mouad Ouakil
+### Asmaa Amara
+### Mouad Ouakil
 
-La plateforme répond aux besoins des internautes qui  souhaitent assister à des webinaires virtuels, en bénéficiant des services suivants : 
-Pour un utilisateur ordinaire:   
-
-
+The platform meets the needs of Internet users who wish to attend virtual webinars, with the following services: 
+For an ordinary user:   
 
 
-•	S’authentifier/ s’inscrire ou même changer le mot de passe. 
-•	Confirmation de son adresse email après authentification.  
-•	Recherche par catégorie. 
-•	Recherche à partir de la bar de recherche. 
-•	Afficher la liste des webinaires (Passé, Présent et Avenir).  
-•	Assister aux webinaires programmer pour aujourd’hui. 
-•	S’enregistrer aux événements avenir. 
 
-Pour un utilisateur admin :
 
-Il beneficie du contrôle des différents transactions des visiteurs faites sur la plateforme : 
-•	Dashboard de visualisation (statistiques sur la plateformes: le nombre des webinaires triés par catégorie). 
-•	Accepter ou refuser un événement.
-•	Ajouter de nouvelles categories. 
-•	Ajouter de nouvelles événement sur la plateforme.
+- Authenticate/register or even change the password. 
+- Confirmation of your email address after authentication.  
+- Search by category. 
+- Search from the search bar. 
+- View the list of webinars (Past, Present and Future).  
+- Attend webinars scheduled for today. 
+- Register for future events. 
+
+For an admin user:
+
+He/she has control over the various visitor transactions made on the platform: 
+- Dashboard visualization (platform statistics: number of webinars sorted by category). 
+- Accept or refuse an event.
+- Add new categories. 
+- Add new events on the platform.
+
+Translated with www.DeepL.com/Translator (free version)
