@@ -26,4 +26,3 @@ He/she has control over the various visitor transactions made on the platform:
 - Add new categories. 
 - Add new events on the platform.
 
-Translated with www.DeepL.com/Translator (free version)
