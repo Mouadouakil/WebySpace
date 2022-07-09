@@ -1,7 +1,6 @@
 ### WebySpace
 
 By : 
-### Asmaa Amara
 ### Mouad Ouakil
 
 The platform meets the needs of Internet users who wish to attend virtual webinars, with the following services: 
